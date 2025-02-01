@@ -9,7 +9,7 @@ public class InsertionSort {
      */
     public static void main(String[] args) {
 
-        int[] arr={1,7,8,9,2,3,1,6,3,8,2,9,1,4};
+        int[] arr={3,1,8,6,2};
 
         for(int i=1;i< arr.length;i++){
             int tempVal=arr[i];
